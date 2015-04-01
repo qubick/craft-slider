@@ -30,7 +30,7 @@
                 );
                 
            return union(
-               base.color([1,0,0]),
+               base.setColor([0,0,1]),
                slider.translate([1,-10,2])
               );
         }
