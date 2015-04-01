@@ -31,7 +31,7 @@
                 
            return union(
                base.setColor([0,0,1]),
-               slider.translate([1,-10,2])
+               slider.translate([1,10,2])
               );
         }
 
