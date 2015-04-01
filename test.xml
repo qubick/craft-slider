@@ -1,0 +1,7 @@
+<craft>
+    <craft name="slider" src="./index.xml"/>
+    <row>        
+        <slider></slider>
+    </row>
+	 
+</craft>
